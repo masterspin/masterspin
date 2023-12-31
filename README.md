@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritij</h1>
-<h3 align="center">Responsible and hardworking CS major seeking to gain and expand knowledge in the areas of java, python, swift, database, and cloud technologies in a non-academic setting</h3>
+<!-- <h3 align="center">Responsible and hardworking CS major seeking to gain and expand knowledge in the areas of java, python, swift, database, and cloud technologies in a non-academic setting</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
